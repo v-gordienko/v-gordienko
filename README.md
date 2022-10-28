@@ -1,3 +1,3 @@
 Hello there 👋
 
-#### iOS developer from Moscow. GitHub personal profile: [vikgor](https://github.com/vikgor)
+#### iOS developer from Almaty. GitHub personal profile: [vikgor](https://github.com/vikgor)
